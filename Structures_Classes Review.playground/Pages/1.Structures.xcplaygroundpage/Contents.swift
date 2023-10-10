@@ -14,6 +14,13 @@ import UIKit
  Assign myFavBook.title a String value that contains the title of your favorite book.
 
  Afterward, print out the value of myFavBook.title.
+
+
+
+
+
+
+
  */
 /*:
  
@@ -23,8 +30,16 @@ import UIKit
  pages that is type Int.
  */
 
+
+
+
 /*:
  Create an instance of a Book named theHobbit with the values title: "The Hobbit" and pages: 300.
  
  */
+
+
+
+
+
 //: [Next](@next)
