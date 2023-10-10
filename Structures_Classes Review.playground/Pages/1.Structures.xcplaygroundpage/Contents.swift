@@ -1,6 +1,6 @@
 import UIKit
 
-/*: Create a structure named Book without any properties. Inside of Book, add the properties:  title with the default value of an empty string  and pages with the default value of 0.*/
+/*: Create a structure named Book. Inside of Book, add the properties:  title with the default value of an empty string  and pages with the default value of 0.*/
 
 
 /*:Create an instance of Book and save it to a variable called myFavBook.
